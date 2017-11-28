@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{37CB9586-9D47-4AED-983B-9DE4C2DAB05C}|Default">
+  <MonoDevelop.Ide.ItemProperties.PickerWithIcon.Droid PreferredExecutionTarget="Android.192.168.123.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/CustomPickerRenderer.cs">
+    <Files>
+      <File FileName="iOS/CustomPickerRenderer.cs" Line="26" Column="1" />
+      <File FileName="Droid/CustomPickerRenderer.cs" Line="38" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PickerWithIcon.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3B58DAF0-E79A-4357-8F4D-DA15F87D752B">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.PickerWithIcon.iOS>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

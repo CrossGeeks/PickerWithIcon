@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="PickerWithIcon.MainPage"
+             xmlns:controls="clr-namespace:PickerWithIcon.Controls" >
+	<StackLayout VerticalOptions="CenterAndExpand" Padding="20"
+                 HorizontalOptions="FillAndExpand">
+            <Label Text="Welcome to our awesome picker" 
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center" />
+             <controls:CustomPicker HorizontalOptions="FillAndExpand"
+                     HeightRequest="40" 
+                     Image="ic_arrow_drop_down"
+                     Title="Pick an Item">
+                      <controls:CustomPicker.Items>
+                        <x:String>1</x:String> 
+                        <x:String>2</x:String>
+                    </controls:CustomPicker.Items>
+            </controls:CustomPicker> 
+    </StackLayout>
+</ContentPage>
